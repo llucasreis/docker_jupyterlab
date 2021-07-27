@@ -1,1 +1,1 @@
-JupyterLab with Docker and Docker Compose
+# Executando Jupyter Lab com Docker e Docker Compose
